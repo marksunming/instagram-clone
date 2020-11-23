@@ -9,7 +9,6 @@ function Header() {
                 alt=""
                 className="headerImage"
             />
-            
         </div>
     )
 }
